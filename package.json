@@ -1,0 +1,16 @@
+{
+  "name": "inpost-qa-mateusz-galuszka",
+  "version": "1.0.0",
+  "description": "Playwright test tasks for InPost QA recruitment",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "Mateusz Gałuszka",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
