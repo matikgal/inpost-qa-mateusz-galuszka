@@ -37,9 +37,9 @@ npx playwright show-report
 
 | File | Task | L1 | L2 | L3 |
 |------|------|----|----|----|
-| `01-login.spec.ts` | Login — warmup, write tests from scratch | ✅ | ✅ | ✅ |
-| `02-god-test.spec.ts` | Refactor — split a god test, extract auth, add cleanup | ✅ | ✅ | ✅ |
-| `03-bad-selectors.spec.ts` | Debug — find and fix 5 broken tests (+ 1 false green) | — | ✅ | ✅ |
-| `04-async.spec.ts` | Async wait — write a stable, non-flaky test | — | ✅ | ✅ |
-| `05-visual.spec.ts` | Visual regression — mock API, screenshot, compare | — | — | ✅ |
-| `06-api.spec.ts` | API testing — full CRUD suite with edge cases | — | ✅ | ✅ |
+| `01-login.spec.ts` | Login - warmup, write tests from scratch | ✅ | ✅ | ✅ |
+| `02-god-test.spec.ts` | Refactor - split a god test, extract auth, add cleanup | ✅ | ✅ | ✅ |
+| `03-bad-selectors.spec.ts` | Debug - find and fix 5 broken tests (+ 1 false green) | - | ✅ | ✅ |
+| `04-async.spec.ts` | Async wait - write a stable, non-flaky test | - | ✅ | ✅ |
+| `05-visual.spec.ts` | Visual regression - mock API, screenshot, compare | - | - | ✅ |
+| `06-api.spec.ts` | API testing - full CRUD suite with edge cases | - | ✅ | ✅ |
