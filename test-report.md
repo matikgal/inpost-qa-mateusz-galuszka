@@ -13,7 +13,7 @@
 Opis: Przy szerokości okna w zakresie breakpointu `md` (np. na tabletach), elementy nawigacyjne w górnym menu (linki, przyciski) nie mają wystarczająco dużo miejsca. Powoduje to, że nachodzą na siebie lub łamią układ, tworząc nieestetyczny i trudny w obsłudze interfejs. Zamiast płynnego responsywnego zachowania, menu po prostu się kurczy.  
 Odtwarzanie: Wejdź na stronę główną i ustaw szerokość okna na np. 850px.  
 Oczekiwany wynik: Menu powinno się zwinąć do "hamburger menu" (jak na ekranach mobilnych) lub marginesy powinny być odpowiednio pomniejszone.  
-![screenshot](screenshots/navbar-md-viewport.png)
+![screenshot](screenshots/login-md-viewport-hidden.png)
 
 **[High]** Wyszukiwarka lokalizacji (postcode) zawsze zwraca błąd 500  
 Opis: Każde zapytanie do `/api/postcode` zwraca HTTP 500 z komunikatem „Service temporarily unavailable. Please try again later." Endpoint jest niezaimplementowany - handler zwraca stały błąd bez logiki. Użytkownik nie może znaleźć żadnego lockera.  
