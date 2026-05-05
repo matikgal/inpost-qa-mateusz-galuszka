@@ -1,7 +1,7 @@
 # Test Report - InPost QA Assignment
 
 **Tester:** Mateusz Gałuszka  
-**Date:** 2026-05-05  
+**Date:** 2026-05-01  
 **Environment:** http://localhost:3000 (Next.js 15, Node.js)  
 **Browser:** Chromium 1280×800  
 
